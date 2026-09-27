@@ -1,16 +1,15 @@
-## Hi there 👋
+### Gameplay
 
-<!--
-**PlotvaIzLodzya/PlotvaIzLodzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Unity gameplay programmer and designer.  
 
-Here are some ideas to get you started:
+What is my goal when i develop game
+- responsive controlls
+- smooth movement
+- neat animation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want player full immersion into the virtual world. I want him feel with his eyes and ears.
+Simplicity, visual clarity, clear goals - this is my top priorities in game design.
+
+### Tools
+
+Unity 6, C#, Built-in, URP, Input System, Splines, DOTween, Spine, NavMesh, Unity Test Framework, 2D/3D Animation, Behaviour tree, UI, AI, DI
